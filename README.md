@@ -11,10 +11,11 @@ INSRUCTIONS:
 2.Enter a new task in the input field at the top of the page.
 
 
-3.Click the "Add Task" button to add the task to the list.
+3.Click the "Add Task" button to add the task to the list and To edit task click "edit" button and save changes made by clicking "save" button.
 
 
-4.To delete a task, simply click on the task text in the list.
+4.To delete a task,  click "Delete" button.
+
 
 SCREENSHOT:
 
