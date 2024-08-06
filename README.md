@@ -17,5 +17,5 @@ INSRUCTIONS:
 4.To delete a task, simply click on the task text in the list.
 
 
-![Screenshot](src/image.png)
+![Screenshot](src/image.PNG)
 
