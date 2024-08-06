@@ -20,5 +20,5 @@ SCREENSHOT:
 
 
 
-![Screenshot](src/image.PNG)
+![Screenshot](src/screenshot.PNG)
 
